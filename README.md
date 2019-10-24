@@ -1,13 +1,9 @@
-# Hello Old Driver
+# Hello Old Driver (C#)
 A LLSS Reader
 
 Inspired by [Chion82/hello-old-driver](https://github.com/Chion82/hello-old-driver).
 
-## Go version (recommended)
-See [src-go/README.md](src-go/README.md)
-
-## C# version
-See [src-csharp/README.md](src-csharp/README.md)
-
-## Python version
-See [src-python/README.md](src-python/README.md)
+## How to Use
+1. Click "Start" to get links in the first page.
+2. Click "Next" and "Prev" to go to next/previous pages.
+3. Double click an item to copy the links.
